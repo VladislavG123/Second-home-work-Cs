@@ -1,0 +1,7 @@
+C:\Users\user1\source\repos\Second_Home_Work\Second_Home_Work\bin\Debug\Second_Home_Work.exe.config
+C:\Users\user1\source\repos\Second_Home_Work\Second_Home_Work\bin\Debug\Second_Home_Work.exe
+C:\Users\user1\source\repos\Second_Home_Work\Second_Home_Work\bin\Debug\Second_Home_Work.pdb
+C:\Users\user1\source\repos\Second_Home_Work\Second_Home_Work\obj\Debug\Second_Home_Work.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\Second_Home_Work\Second_Home_Work\obj\Debug\Second_Home_Work.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Second_Home_Work\Second_Home_Work\obj\Debug\Second_Home_Work.exe
+C:\Users\user1\source\repos\Second_Home_Work\Second_Home_Work\obj\Debug\Second_Home_Work.pdb
